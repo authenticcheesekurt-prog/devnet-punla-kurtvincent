@@ -14,8 +14,9 @@ of code designed to perform a specific task.
 ============================================
 KEY VOCABULARY
 ============================================
-- parameters
-- return values
+- function definition: the block of code where you right out the function does.
+- parameters: A placeholder variable listed in the function that the function expects to receive.
+- return values: the result a function sends back to whatever called it, using the 'return' keyword.
 
 ============================================
 MY OWN EXAMPLE(S)
