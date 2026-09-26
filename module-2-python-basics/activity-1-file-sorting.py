@@ -1,7 +1,7 @@
 """
 Module 2 — Activity: File Sorting with os and shutil
-Student: [your name]
-Date: [date]
+Student: [Kurt Vincent Punla]
+Date: [September 26, 2026]
 
 ============================================
 WHAT DID YOU BUILD? (explain in your own words)
@@ -14,10 +14,14 @@ sort the files? e.g. by extension, by name, by date, etc.]
 ============================================
 KEY VOCABULARY
 ============================================
-- os module:
-- shutil module:
-- file path:
-- directory:
+- os module: a built-in python library used to interact with the operating system,
+listing files in a folder, checking if a path exists.
+- shutil module: a built-in python library used for high-level feli operation, like 
+copying or moving files and folder.
+- file path: the address of a file or folder on your computer, showing where it's located.
+- directory: another word for "folder", a container that holds files and another directories.
+- file extension: the part of a filename after the last dot, like ".jpg" or ".pdf". which usually
+tells you what type of file it is.
 (add more as needed)
 
 
